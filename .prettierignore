@@ -1,0 +1,13 @@
+node_modules/
+package-lock.json
+.env
+.env.local
+.env.production
+.env.development
+*.log
+coverage/
+.nyc_output/
+dist/
+build/
+.git/
+.husky/ 
